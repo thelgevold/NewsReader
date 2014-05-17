@@ -1,0 +1,3 @@
+app.controller("newscontroller", function($scope){
+    $scope.test = "I now understand how the scope works!";
+});

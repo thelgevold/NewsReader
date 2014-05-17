@@ -1,0 +1,420 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ne",
+				"newSourceUrl"
+			],
+			[
+				"n",
+				"newSourceTitle"
+			],
+			[
+				"sa",
+				"saveSource"
+			],
+			[
+				"templ",
+				"templateUrl"
+			],
+			[
+				"category",
+				"categorycontroller"
+			],
+			[
+				"cat",
+				"categoryId"
+			],
+			[
+				"de",
+				"deleteCategory"
+			],
+			[
+				"ca",
+				"categoryId"
+			],
+			[
+				"new",
+				"newCat"
+			],
+			[
+				"get",
+				"getUrl"
+			],
+			[
+				"response",
+				"responseData"
+			],
+			[
+				"res",
+				"responseData"
+			],
+			[
+				"cate",
+				"categoryservice"
+			],
+			[
+				"s",
+				"src"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 2218,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app.js",
+			"settings":
+			{
+				"buffer_size": 6195,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "templates/add_sources.html",
+			"settings":
+			{
+				"buffer_size": 721,
+				"line_ending": "Unix",
+				"name": "<div>"
+			}
+		},
+		{
+			"file": "templates/show_current_source.html",
+			"settings":
+			{
+				"buffer_size": 166,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "NodeJs/NewsReader/app.js",
+			"settings":
+			{
+				"buffer_size": 3219,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "templates/show_sources.html",
+			"settings":
+			{
+				"buffer_size": 290,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/tor/Development/NewsReader/AngularJS/templates/admin.html",
+		"/Users/tor/Development/NewsReader/AngularJS/partials/add_sources.html",
+		"/Users/tor/Development/NewsReader/AngularJS/templates/show_sources.html",
+		"/Users/tor/Development/NewsReader/AngularJS/templates/show_current_source.html",
+		"/Users/tor/Development/NewsReader/AngularJS/controllers/newscontroller.js",
+		"/Users/tor/Development/NewsReader/AngularJS/services/services.js",
+		"/Users/tor/Development/NewsReader/AngularJS/NodeJs/categoryService.js",
+		"/Users/tor/Development/NewsReader/AngularJS/models/category.js",
+		"/Users/tor/Development/NewsReader/AngularJS/untitled",
+		"/Users/tor/Development/Brooklyn/index.html",
+		"/Users/tor/Development/Brooklyn/css/editor.css",
+		"/Users/tor/Development/Brooklyn/Scripts/editor.js",
+		"/Users/tor/Development/Brooklyn/Scripts/character.js",
+		"/Users/tor/Development/Brooklyn/Scripts/tab.js",
+		"/Users/tor/Development/TeachMeCoolStuff/index.html"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"s",
+			"delete",
+			">\n",
+			"Reader"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 2218,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1811,
+								1811
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app.js",
+					"settings":
+					{
+						"buffer_size": 6195,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1407,
+								1424
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 767.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "templates/add_sources.html",
+					"settings":
+					{
+						"buffer_size": 721,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								392,
+								392
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<div>",
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "templates/show_current_source.html",
+					"settings":
+					{
+						"buffer_size": 166,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "NodeJs/NewsReader/app.js",
+					"settings":
+					{
+						"buffer_size": 3219,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2429,
+								2429
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 713.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "templates/show_sources.html",
+					"settings":
+					{
+						"buffer_size": 290,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								106,
+								106
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}

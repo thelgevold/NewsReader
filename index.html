@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>News Reader</title>
+    <link rel="stylesheet" type="text/css" href="bootstrap/css/bootstrap.min.css">
+    <script src="js/jquery.js"></script>
+    <script src="bootstrap/js/bootstrap.min.js"></script>
+
+     <script src="jquery-ui/js/jquery-ui.min.js"></script>
+
+  </head>
+ 
+  <body ng-app="NewsReaderApp" ng-controller="categorycontroller">
+    
+    <div class="container">
+
+        <nav class="navbar navbar-default" role="navigation">
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="#/Home">Home</a>
+      <a class="navbar-brand" href="#/Admin">Admin</a>
+    </div>
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+   
+  </div><!-- /.container-fluid -->
+</nav>
+
+        <div class="row">
+
+            <div class="container">
+                <div>
+                  <button target-droppable type="button" class="btn btn-default btn-lg">
+                    <span class="glyphicon glyphicon-trash"></span> Drag here to delete
+                </button>
+                
+                </div>
+                <br/>
+                <div style="float:left;">
+                    <ul class="nav nav-pills nav-stacked" ng-repeat="category in categories">
+                        <li source-draggable class="{{category.css}}" data-category="{{category._id}}">
+                            <a href="{{category.url}}"> {{category.title}} </a>
+                        </li>
+                    </ul>
+                </div>
+         
+            <div class="col-md-9">
+                <div ng-view></div>
+            </div>
+        </div>
+        </div>
+   
+ 
+
+  
+    <script src="js/angular.min.js"></script>
+    <script src="js/angular-route.min.js"></script>
+    
+    <script src="app.js"></script>
+
+ 
+  </body>
+</html>

@@ -1,0 +1,41 @@
+{
+	"folders":
+	[
+		{
+			"path": "bootstrap"
+		},
+		{
+			"path": "controllers"
+		},
+		{
+			"path": "css"
+		},
+		{
+			"path": "img"
+		},
+		{
+			"path": "jquery-ui"
+		},
+		{
+			"path": "js"
+		},
+		{
+			"path": "lib"
+		},
+		{
+			"path": "models"
+		},
+		{
+			"path": "NodeJs"
+		},
+		{
+			"path": "partials"
+		},
+		{
+			"path": "services"
+		},
+		{
+			"path": "templates"
+		}
+	]
+}

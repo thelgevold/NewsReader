@@ -1,0 +1,6 @@
+angular.module('NewsReaderApp.controllers', []).
+  controller('sourcescontroller', function($scope) {
+
+  
+    
+});
