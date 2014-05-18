@@ -134,8 +134,11 @@ app.controller('sourcescontroller', function($rootScope,$scope,$routeParams,sour
 app.controller('categorycontroller', function($rootScope,$scope, categoryservice,$location) {
 
     categoryservice.getCategories().then(function(response){
+	
     	$scope.categories = response.data;
-    	$scope.categories[0].css = "active";
+    	if($scope.categories.length > 0){
+			$scope.categories[0].css = "active";
+		}
     	$rootScope.categories = response.data;
 
       for(var i = 0; i < $rootScope.categories.length; i++){
