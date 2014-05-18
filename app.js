@@ -44,7 +44,7 @@ app.directive('targetDroppable', function(categoryservice,$rootScope) {
 });
 
 var getUrl = function(part){
-  return 'http://localhost:8089/' + part;
+  return 'http://torlaptop:8089/' + part;
 }
  
 app.config(['$routeProvider', function($routeProvider) {
